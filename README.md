@@ -33,6 +33,7 @@
 ![Css](https://img.shields.io/badge/-Css-333333?style=flat&logo=css)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&&logoColor=00599C)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
