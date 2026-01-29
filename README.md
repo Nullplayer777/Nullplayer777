@@ -112,8 +112,3 @@
 [c]: https://devdocs.io/c/
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS#:~:text=Cascading%20Style%20Sheets%20(CSS)%20is,speech%2C%20or%20on%20other%20media.
 [html]: https://devdocs.io/html/
-
------
-Credits: [manoj_uppala](https://github.com/manojuppala)
-
-Last Edited on: 05/12/2020
