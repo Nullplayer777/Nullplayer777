@@ -6,7 +6,7 @@
 [![WhatsApp](https://img.shields.io/badge/whatsapp-%2300ff00.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50493982320)
 [![Github](https://img.shields.io/badge/GITHUB-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nullplayer777)
 
-### 👨🏻‍💻 About Me
+### 👨🏻‍💻 Biografia
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
