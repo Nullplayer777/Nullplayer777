@@ -35,8 +35,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)&nbsp;
-[![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;][git]
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+[![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;][github]
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![MS Excel](https://img.shields.io/twitter/url?color=333333&label=MS%20Excel&logo=Microsoft%20Excel&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Windows-333333%3Fstyle%3Dflat%26logo%3DWindows)&nbsp;
