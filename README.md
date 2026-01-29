@@ -6,7 +6,7 @@
 [![WhatsApp](https://img.shields.io/badge/whatsapp-%2300ff00.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50493982320)
 [![Github](https://img.shields.io/badge/GITHUB-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nullplayer777)
 
-### 👨🏻‍💻 About Me
+### 👨🏻‍💻 Biografía
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
@@ -56,59 +56,3 @@
 
 ---
 
-[![Spotify](https://img.shields.io/badge/spotify_playing_🎧-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/mv93pmcxxemfvpc9bpxq72m0l)
-
-[![Spotify](https://manojuppala.vercel.app/api/spotify)](https://open.spotify.com/user/mv93pmcxxemfvpc9bpxq72m0l)
-
-<details>
-<summary>✅ GitHub Analytics</summary>
-<p align="left">
-<a href="https://github.com/manojuppala">
-  <img height="160em" src="https://github-readme-stats-git-master.manojuppala.vercel.app/api?username=manojuppala&&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojuppala&layout=compact&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
-
-</a>
-</p>
-</details>
-
-<details>
-  <summary>✅ Recent Github Activity</summary>
-  <img align="center" width="200" height="150" src="https://github.com/manojuppala/manojuppala/blob/master/assets/080f909da46192c0db62b76330302b0c.gif?raw=true"><h2>Comming soon..</h2>
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
----
-
-### 🏄follow me on
-
-[![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojuppala)
-[![Stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/11874811/manoj?tab=profile)
-[![Reddit](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/manoj_0863)
-
-<p align="center"> 
-  <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/manojuppala/count.svg" />
-  </br>
-      <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="750" height="520" />
-</p>
-
-[github]: https://github.com/manojuppala
-[twitter]: https://twitter.com/Manoj_0863
-[youtube]: https://www.youtube.com/channel/UCX93oEN0tza6KfuAWfI61vQ
-[linkedin]: https://www.linkedin.com/in/manoj-uppala-1a8b33169/
-[coursera]: https://www.coursera.org/learn/data-analysis-with-python
-[vscode]: https://code.visualstudio.com/
-[python]: https://www.python.org/doc/
-[java]: https://docs.oracle.com/en/java/
-[rlang]: https://github.com/manojuppala/R-programming
-[matlab]: https://www.mathworks.com/products/matlab.html
-[tableau]: https://www.tableau.com/
-[git]: https://git-scm.com/doc
-[github]: https://github.com/
-[c++]: https://devdocs.io/cpp/
-[c]: https://devdocs.io/c/
-[css]: https://developer.mozilla.org/en-US/docs/Web/CSS#:~:text=Cascading%20Style%20Sheets%20(CSS)%20is,speech%2C%20or%20on%20other%20media.
-[html]: https://devdocs.io/html/
