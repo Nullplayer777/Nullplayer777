@@ -30,6 +30,7 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![Html](https://img.shields.io/badge/-Html-333333?style=flat&logo=html5)&nbsp;
+![Css](https://img.shields.io/badge/-Css-333333?style=flat&logo=css)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&&logoColor=00599C)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 [![Mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)&nbsp;][c]
