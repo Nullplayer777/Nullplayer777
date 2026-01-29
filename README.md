@@ -27,7 +27,7 @@
 
 ### 🛠 Languages and Tools
 
-[![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)&nbsp;][Javascript]
+[![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)&nbsp;
