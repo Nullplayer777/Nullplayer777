@@ -34,7 +34,7 @@
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&&logoColor=00599C)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)&nbsp;
-[![Mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)&nbsp;][c]
+![Mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)&nbsp;][c]
 [![C](https://img.shields.io/badge/-C-333333?style=flat&logo=mysql)&nbsp;
 [![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)&nbsp;][rlang]\
 ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)&nbsp;
