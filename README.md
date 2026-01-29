@@ -1,5 +1,5 @@
 
-## [Nullplayer][github] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## [Developer - Nullplayer][github] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/@nullplayer01)
 [![Discord](https://img.shields.io/badge/discord-%230047ab.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/users/1316126369335349321)
