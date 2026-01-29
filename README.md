@@ -19,12 +19,6 @@
 
 ---
 
-### Spotify 
-
-! [ Preview ] ( https://tthn.pythonanywhere.com?spin=true )
-
----
-
 ### 🛠 Languages and Tools
 
 ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)&nbsp;
